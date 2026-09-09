@@ -1,0 +1,11 @@
+# jupyter/jupyterlab extensions
+jupyterlab
+jupyter-server-proxy
+jupyter-vscode-proxy
+jupyterlab-rise
+ipywidgets
+
+neo4j
+pandas
+matplotlib
+plotly
