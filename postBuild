@@ -17,4 +17,4 @@ mkdir ~/resources/local
 cd    ~/resources/local
 
 
-sudo npm install -g typescript
+npm install -g typescript
