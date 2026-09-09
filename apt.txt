@@ -1,0 +1,5 @@
+htop
+curl
+vim
+wget
+btop
