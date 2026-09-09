@@ -1,5 +1,9 @@
+sudo
 htop
 curl
 vim
 wget
 btop
+golang-go
+npm 
+nodejs
