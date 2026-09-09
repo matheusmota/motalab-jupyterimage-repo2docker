@@ -1,0 +1,17 @@
+#!/bin/bash
+
+###############################################################
+#          jupyter/jupyterlab extensions/kernels              #
+###############################################################
+
+# Building jupyter lab 
+echo "Building jupyter lab..."
+# jupyter lab build 
+echo "Finished building jupyter lab!"
+
+###############################################################
+#             moving to a local installation folder           #
+###############################################################
+
+mkdir ~/resources/local
+cd    ~/resources/local
